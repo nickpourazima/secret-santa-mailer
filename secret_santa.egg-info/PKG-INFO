@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: secret-santa
+Version: 0.1
+Requires-Dist: google-auth
+Requires-Dist: google-api-python-client
+Requires-Dist: pytest

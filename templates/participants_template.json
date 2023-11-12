@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Pat",
+        "group": 1,
+        "email": "<Pat's email>"
+    },
+    {
+        "name": "Paul",
+        "group": 2,
+        "email": "<Paul's email>"
+    }
+]

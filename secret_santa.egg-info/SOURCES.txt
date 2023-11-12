@@ -1,0 +1,8 @@
+setup.py
+secret_santa/__init__.py
+secret_santa/secret_santa_mailer.py
+secret_santa.egg-info/PKG-INFO
+secret_santa.egg-info/SOURCES.txt
+secret_santa.egg-info/dependency_links.txt
+secret_santa.egg-info/requires.txt
+secret_santa.egg-info/top_level.txt
